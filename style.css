@@ -4,6 +4,7 @@
 
 #conteudo {
 	padding: 10px;
+	display: flex;
 }
 
 #footer {
